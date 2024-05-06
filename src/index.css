@@ -21,8 +21,8 @@ body {
 }
 
 .chart {
-  width: 20rem;
-  height: 400px;
+  width: 500px;
+  height: 500px;
   border: 1px solid rgb(179, 179, 179);
   padding: 10px;
   border-radius: 10px;
