@@ -11,7 +11,7 @@ export const appRouter = createBrowserRouter([
         element: <HomePage />,
       },
       {
-        path: "/:region",
+        path: "/:id",
         element: <RegionPage />,
       },
     ],
